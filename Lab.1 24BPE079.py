@@ -1,4 +1,4 @@
-#Adityasingh.24bpe098
+#Priyangshu Kumar Das-24BPE079
 # Question - 1
 a = float(input("Enter the first number: "))
 b = float(input("Enter the second number: "))
